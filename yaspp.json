@@ -1,0 +1,12 @@
+{
+	"content": {
+		"root": "content",
+		"index": "."
+	},
+	"locale": {
+		"root": "locales",
+		"pages": {
+			"*": ["authors", "glossary"]
+		}
+	}
+}
