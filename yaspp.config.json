@@ -5,6 +5,7 @@
 	},
 	"locale": {
 		"root": "locales",
+		"langs": ["he", "en"],
 		"pages": {
 			"*": ["authors", "glossary"]
 		}

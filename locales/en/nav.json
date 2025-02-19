@@ -2,6 +2,14 @@
 	"items:articles:som:intro:label": "Preface",
 	"items:articles:som:bio:label": "Mel Kaye – CV",
 	"items:articles:som:missingBits:label": "Mel's Hack – The Missing Bits",
-	"items:pages:about:desc": "About Mel's Loop",
-	"items:pages:resources:desc": "Web Resources for The Story of Mel"
+	"items:pages:about:desc": "About Jehovascript",
+	"items:pages:resources:desc": "Web Resources for The Story of Mel",
+	"items:links:birth:desc": "Early months",
+	"items:links:birth:label": "Birth",
+	"items:links:infancy:desc": "Infancy",
+	"items:links:infancy:label": "The Early years",
+	"items:links:adolescence:desc": "Early teens and onward",
+	"items:links:adolescence:label": "Adolescence",
+	"sections:advice:label": "Advice"
+
 }
